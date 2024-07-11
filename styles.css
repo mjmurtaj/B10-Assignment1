@@ -97,3 +97,32 @@
     line-height: 68px;
     text-align: center;
 }
+
+main {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.development {
+    text-align: center;
+    border-radius: 16px;
+    padding: 80px 97px 80px 97px;
+    background: rgba(13, 19, 33, 0.02);
+    margin-top: 50px;
+}
+
+.section-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 48px;
+}
+
+.section-2 {
+    text-align: left;
+}
+
+.button-3 {
+    padding: 10px 15px;
+    border-radius: 5px;
+}
