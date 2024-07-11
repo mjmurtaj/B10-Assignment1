@@ -38,7 +38,7 @@
 }
 
 .hero {
-    background-image: url(../assets/Hero-bg.png);
+    background-image: url(./assets/Hero-bg.png);
     /* Hero-bg */
 
     min-height: 650px;
@@ -259,7 +259,7 @@ main {
 }
 
 .sup {
-    background-image: url(../assets/handshake.jpg);
+    background-image: url(./assets/handshake.jpg);
     border-radius: 16px;
 
     background: rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2);
