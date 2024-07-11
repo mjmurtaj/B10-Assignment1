@@ -126,3 +126,47 @@ main {
     padding: 10px 15px;
     border-radius: 5px;
 }
+
+.section-head {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.section-head-1 {
+    color: rg a(13, 19, 33, 0.7);
+
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.ins {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.ins-1 {
+    max-width: 850px;
+    margin: auto;
+}
+
+.ins-2 {
+    color: rgb(13, 19, 33);
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 37px;
+    font-family: "Azeret Mono";
+}
+
+.video {
+    margin-top: 50px;
+    width: 1200px;
+    height: 500px;
+}
